@@ -1,0 +1,65 @@
+/*CSS*/
+* {
+  font-family: "times-new-roman";
+}
+button a {
+  color: black;
+}
+#pic {
+  font-size: 14px;
+}
+body {
+  background-color: darkgreen;
+}
+button {
+  background-color: lightcyan;
+  color: black;
+  border: 2px solid blue;
+}
+a {
+  color: rgb(177, 130, 221);
+  text-decoration: none;
+}
+.potss {
+  list-style-type: none;
+  padding: 0;
+}
+.pots:hover a {
+  font-weight: 900;
+  font-size: 150%;
+  border: 1.2px red solid;
+  border-radius: 5px;
+  padding: 5px;
+}
+h1 {
+  color: coral;
+  text-align: center;
+}
+h3 {
+  color: lightblue;
+}
+h2 {
+  color: pink;
+  padding: auto;
+}
+h4 {
+  color: lightgreen;
+}
+.form {
+  padding: 20px;
+  border: blue solid 5px;
+}
+.form label {
+  display: block;
+}
+.long {
+  width: 20%;
+}
+#seeroo {
+  border-bottom-color: darkgreen;
+}
+#seero {
+  color: lightgreen;
+  border: whitesmoke 1px solid;
+  background-color: tomato;
+}
